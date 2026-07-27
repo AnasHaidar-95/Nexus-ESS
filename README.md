@@ -700,34 +700,44 @@ Client Request
 > 🚧 **Coming soon!** Screenshots will be added once the UI is finalized.
 
 <!-- Uncomment and replace with actual screenshots -->
-<!--
+
 <table>
 <tr>
 <td align="center">
-  <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="400" />
+  <img alt="Dashboard" src="https://github.com/user-attachments/assets/f60396b3-bfea-446e-a60b-7aa3e51ee3eb" />
   <br />
-  <em>Employee Dashboard</em>
+  <em>Admin Dashboard</em>
 </td>
 <td align="center">
-  <img src="docs/screenshots/attendance.png" alt="Attendance" width="400" />
+  <img alt="Image" src="https://github.com/user-attachments/assets/6423737e-11f5-4496-9a8f-1ab650e7e6b6" />
   <br />
-  <em>Attendance Tracking</em>
+  <em>Audit Logging System</em>
 </td>
 </tr>
 <tr>
 <td align="center">
-  <img src="docs/screenshots/leave-management.png" alt="Leave Management" width="400" />
+  <img alt="Attendance Devices Support" src="https://github.com/user-attachments/assets/afb7611b-e256-4d78-84df-7a25846f4f3d" />
   <br />
-  <em>Leave Management</em>
+  <em>Attendance Devices Support</em>
 </td>
 <td align="center">
-  <img src="docs/screenshots/payroll.png" alt="Payroll" width="400" />
+<img alt="Reviewing And Rating System" src="https://github.com/user-attachments/assets/de5f8277-7dc7-40bb-9834-1de0217a4a67" />
+  <br />
+  <em>Reviewing And Rating System</em>
+</td>
+<td align="center">
+  <img alt="Bank Accounts Management" src="https://github.com/user-attachments/assets/4425db77-3fdf-496d-89fe-635d95a16d83" />
+  <br />
+  <em>Bank Accounts Management</em>
+</td>
+<td align="center">
+<img alt="Payroll Processing" src="https://github.com/user-attachments/assets/2c25b377-1c9e-4247-aa70-4e8aa1da9230" />
   <br />
   <em>Payroll Processing</em>
 </td>
 </tr>
 </table>
--->
+
 
 ---
 
@@ -960,7 +970,7 @@ Having issues? Here's how to get help:
 
 <div align="center">
 
-**Made with ❤️ by the Nexus-ESS Team**
+**Made with ❤️ by the [AnasHaidar-95](https://github.com/AnasHaidar-95)**
 
 ⭐ Star this repo if you find it useful!
 
