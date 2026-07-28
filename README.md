@@ -6,11 +6,6 @@
 
 <br>
 
-<!-- Optional Logo -->
-<!--
-<img src="docs/assets/logo.png" width="140"/>
--->
-
 # Nexus-ESS
 
 ### Enterprise Employee Self-Service Platform
@@ -1211,7 +1206,8 @@ If the database has been seeded:
 | Account | Email | Password |
 |----------|-------|----------|
 | Administrator | admin@example.com | password |
-| HR Manager | hr@example.com | password |
+| HR Manager | hrm@example.com | password |
+| HR Officer | hro@example.com | password |
 | Employee | employee@example.com | password |
 
 > Replace these with your actual seeded credentials.
