@@ -1205,12 +1205,12 @@ If the database has been seeded:
 
 | Account | Email | Password |
 |----------|-------|----------|
-| Administrator | admin@example.com | password |
-| HR Manager | hrm@example.com | password |
-| HR Officer | hro@example.com | password |
-| Employee | employee@example.com | password |
+| Administrator | admin@nexus.com | Admin@12345 |
+| HR Manager | hrm1@nexus.com | Hrm1@12345 |
+| HR Officer | hro1@nexus.com | Hro1@12345 |
+| Employee | em1@nexus.com | Em1@12345 |
 
-> Replace these with your actual seeded credentials.
+> These are development/demo credentials created by the seed script.
 
 ---
 
