@@ -15,7 +15,7 @@ A modern, scalable, enterprise-grade Human Resource Management (HRMS) and Employ
 Designed for organizations that require a secure, modular, multilingual, and highly extensible workforce management system.
 
 <br>
-
+<p align="center">
 <img src="https://img.shields.io/github/license/AnasHaidar-95/Nexus-ESS?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/stars/AnasHaidar-95/Nexus-ESS?style=for-the-badge"/>
@@ -25,9 +25,9 @@ Designed for organizations that require a secure, modular, multilingual, and hig
 <img src="https://img.shields.io/github/issues/AnasHaidar-95/Nexus-ESS?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/last-commit/AnasHaidar-95/Nexus-ESS?style=for-the-badge"/>
-
+</p>
 <br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -43,7 +43,7 @@ Designed for organizations that require a secure, modular, multilingual, and hig
 <img src="https://img.shields.io/badge/TailwindCSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-
+</p>
 <br><br>
 
 <a href="#quick-start">Quick Start</a> •
